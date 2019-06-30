@@ -9,7 +9,7 @@ b) You add the method "onClick="javascript:$.simpleCart.addProduct(this);" on th
 
 c) You add the html element's ID for the list of "added products" to the cart in the "$.simpleCart.activity()" method.
 
-d) You place the $.simpleCart.js just before </body> tag.
+d) You place the $.simpleCart.js just before < /body > tag.
 
 
 
